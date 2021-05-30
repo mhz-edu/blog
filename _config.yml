@@ -1,3 +1,4 @@
 url: "https://mhz-edu.github.io/blog/"
+baseurl: "/blog"
 sass:
   sass_dir: "style"
